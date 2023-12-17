@@ -31,7 +31,7 @@
 
 .search__icon {
   font-size: 1.6rem;
-  padding: 0.5rem;
+  padding: 0.5rem 1rem;
   background: var(--secondary-color);
   color: #fff;
   border-radius: 50px;
