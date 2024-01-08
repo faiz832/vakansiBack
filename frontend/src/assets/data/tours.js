@@ -16,12 +16,7 @@ const tours = [
     price: 99,
     maxGroupSize: 10,
     desc: "New Small World Purwokerto merupakan salah satu tempat wisata yang wajib dikunjungi di Purwokerto. Tempat wisata ini mengusung konsep taman miniatur dunia yang menyajikan berbagai replika bangunan terkenal dari seluruh dunia dan berletak di Jalan Raya Baturaden Barat Nomor 270, Ketenger, Karangmangu, Kecamatan Baturaden, Purwokerto, Jawa Tengah. Buka setiap weekdays mulai dari jam 08.00 hingga 16.00 WIB, sedangkan pada weekend mulai dari jam 07.00 hingga 17.00 WIB. Tiket masuk tempat wisata ini sebesar Rp20.000 per orang untuk usia diatas 3 tahun ke atas dan itu sudah termasuk fasilitas parkir dan asuransi",
-    reviews: [
-      {
-        name: "jhon doe",
-        rating: 4.6,
-      },
-    ],
+    reviews: [],
     avgRating: 4.5,
     photo: tourImg01,
     featured: true,
